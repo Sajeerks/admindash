@@ -47,8 +47,8 @@ const TransactionManagement = () => {
     discount,
     tax,
     total,
-    orderItems,
-    _id,
+    // orderItems,
+    // _id,
   } = order;
 
   const updateHandler =()=>{
