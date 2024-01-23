@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -20,7 +20,7 @@ Filler,
 
 } from "chart.js";
 import { Bar, Doughnut, Line, Pie } from "react-chartjs-2";
-import moment from "moment";
+// import moment from "moment";
 
 ChartJS.register(
   CategoryScale,

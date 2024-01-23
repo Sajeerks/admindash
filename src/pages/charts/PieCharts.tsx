@@ -1,11 +1,11 @@
-import moment from "moment"
+// import moment from "moment"
 import AdminSidebar from "../../components/AdminSidebar"
 import {  DonutChart, PieChart } from "../../components/Charts"
 import data from "../../assets/data.json"
 
 
 const PieCharts = () => {
-    const months = moment.months() //
+    // const months = moment.months() //
   return (
     <div className="adminContainer">
     <AdminSidebar/>
